@@ -1,1 +1,1 @@
-# exercicio-while
+# EXERCISES FOR FIXING CONTENT
